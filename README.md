@@ -1,6 +1,6 @@
 # Senseed
  
-Senseed, a Smart Agriculture IoT System, is an end-to-end IoT solution designed to monitor and manage agricultural environments. This repository includes the **firmware**, **hardware**, **enclosures**, and server setup required to deploy the system.<br>
+Senseed, a Smart Agriculture IoT System, is an end-to-end IoT solution designed to monitor and manage agricultural environments. This repository includes the **firmware**, **hardware**, **enclosures**, and **server setup** required to deploy the system.<br>
 <br>
 <br>
 <div align="center">
@@ -14,7 +14,8 @@ This system leverages a wireless sensor network in a star topology, using **NRF2
 <br>
 For data processing and storage, the gateway connects to an Ubuntu server over **WiFi**, using the **MQTT** protocol with **RabbitMQ** as the message broker. On the server side, **InfluxDB** is used for time-series data storage. <br>
 <br>
-The gateway is powered by an **ATMEGA1284** and connects to the internet via an **ESP32** module, utilizing AT commands. The sensors and controllers in the system are based on the **ATMEGA328P** microcontroller. 
+The gateway is powered by an **ATMEGA1284** and connects to the internet via an **ESP32** module, utilizing AT commands. The sensors and controllers in the system are based on the **ATMEGA328P** microcontroller. <br>
+<br>
 The environmental sensor is optimized for low-power operation, measuring temperature and humidity with a high-precision SHT40 sensor while also monitoring battery voltage to ensure reliable performance over extended periods. <br>
 <br>
 The soil sensor assesses soil moisture levels using a moisture probe. <br>
