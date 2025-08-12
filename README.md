@@ -1,5 +1,5 @@
-# Senseed
- 
+## Introduction
+
 Senseed, a Smart Agriculture IoT System, is an end-to-end IoT solution designed to monitor and manage agricultural environments. This repository includes the **firmware**, **hardware**, **enclosures**, and **server setup** required to deploy the system.<br>
 <br>
 <br>
