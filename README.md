@@ -34,5 +34,5 @@ The controllers are designed for both low and high-power applications, managing 
 <br>
 <br>
 
-**NOTE: This project is intended as a demonstration of architecture and coding practices. It is not a complete, production-ready system, but rather a proof-of-concept illustrating key components of an IoT-based smart agriculture solution.**
+**IMPORTANT NOTE: This repository contains a proof-of-concept implementation and is intended for demonstration purposes to showcase architecture design and coding practices. Some components are intentionally missing or incomplete, so the system is not production-ready.**
 
